@@ -1,7 +1,7 @@
-#🎯 Guess the Number – Python Game
+# 🎯 Guess the Number – Python Game
 A simple yet improved number-guessing game written in Python. The player must guess a randomly generated number between 1 and 100 within a limited number of tries based on the selected difficulty level.
 
-#🚀 Features
+## 🚀 Features
 ✅ Three Difficulty Levels: Easy (10 tries), Medium (7 tries), Hard (5 tries)
 
 ✅ Input Validation: Handles non-numeric and out-of-range inputs
@@ -12,7 +12,7 @@ A simple yet improved number-guessing game written in Python. The player must gu
 
 ✅ Beginner-Friendly: Great for those learning Python basics
 
-#🛠️ How to Run
+## 🛠️ How to Run
 Make sure Python is installed:
 
 bash
@@ -28,11 +28,11 @@ Copy
 Edit
 python guess_number_game.py
 
-#📸 Sample Output
+## 📸 Sample Output
 vbnet
 Copy
 Edit
-#🎮 Welcome to the Improved Guess the Number Game!
+🎮 Welcome to the Improved Guess the Number Game!
 Choose difficulty level:
 1. Easy (10 tries)
 2. Medium (7 tries)
@@ -45,7 +45,7 @@ Guess #1: 50
 Too low!
 Hint: Close!
 
-#🧠 What You Learn
+## 🧠 What You Learn
 Using random module
 
 Loops and conditionals
